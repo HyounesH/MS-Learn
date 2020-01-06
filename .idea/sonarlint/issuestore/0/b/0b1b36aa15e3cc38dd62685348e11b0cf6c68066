@@ -1,0 +1,4 @@
+
+asquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8ÑÞ¦áõ-
+^squid:UnusedPrivateMethod1"-Remove this unused private "fallback" method.(§½Ý­ûÿÿÿÿ8õ¢¢áõ-
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¢æ¬áõ-
